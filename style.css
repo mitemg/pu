@@ -10,3 +10,6 @@
 #i {
 	color: blue;
 }
+#iborder{
+	border: blue solid 2px;
+}
